@@ -1,1 +1,1 @@
-# low cost wearable pulse oximeter and heart rate monitor
+# MAX30102 SPO2 and pulse monitor
